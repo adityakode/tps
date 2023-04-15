@@ -1,0 +1,65 @@
+.form-6-english-2-1 {
+  position: absolute;
+  top: 0;
+  left: 94px;
+  width: 1114px;
+  height: 532.46px;
+  object-fit: cover;
+}
+.adharcardcheckbox3-icon {
+  position: absolute;
+  top: 120px;
+  left: 930px;
+  width: 29px;
+  height: 35px;
+}
+.epicno,
+.nofamilymember,
+.relwithapplicant {
+  border: 0;
+  background-color: #fffefe;
+  position: absolute;
+  top: 450px;
+  left: 287px;
+  width: 289px;
+  height: 26px;
+}
+.epicno,
+.relwithapplicant {
+  background-color: #fff;
+  top: 453px;
+  left: 790px;
+  width: 195px;
+}
+.epicno {
+  top: 485px;
+  left: 246px;
+  width: 328px;
+}
+.form-6-english-2-1-parent {
+  position: relative;
+  width: 90%;
+  height: 620.46px;
+}
+.fm2{
+  margin-top: 50px;
+  margin-left: 30%;
+}
+
+.btn-4{
+  margin-top: 700px;
+}
+
+.declare{
+  margin-top: 650px;
+}
+
+.ab4{
+  margin-top: 100px;
+  padding-left: 10px;
+}
+
+.cb{
+  margin-top: 650px;
+  margin-left: 40px;
+}
