@@ -1,0 +1,240 @@
+.form-6-englishmodifird-11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 200px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: scale-down;
+}
+.address {
+  border: 0;
+  background-color: #fff;
+  position: absolute;
+  height: 10.15%;
+  width: 94.25%;
+  top: 87.35%;
+  right: 3.32%;
+  bottom: 2.5%;
+  left: 2.42%;
+}
+.form-6-englishmodifird-1 {
+  position: absolute;
+  top: -4px;
+  left: -8px;
+  width: 1114px;
+  height: 1478px;
+}
+.aadharno,
+.first-middlename,
+.mobself {
+  border: 0;
+  background-color: #fffbfb;
+  position: absolute;
+  top: 1046px;
+  left: 362px;
+  width: 446px;
+  height: 26px;
+}
+.first-middlename,
+.mobself {
+  top: 560px;
+  left: 72px;
+  width: 844px;
+}
+.mobself {
+  background-color: #fafafa;
+  top: 866px;
+  left: 461px;
+  width: 409px;
+}
+.fmdsurname,
+.namesurnamerelative,
+.surname {
+  border: 0;
+  background-color: #fffbfb;
+  position: absolute;
+  top: 816px;
+  left: 89px;
+  width: 831px;
+  height: 26px;
+}
+.fmdsurname,
+.surname {
+  top: 430px;
+  left: 177px;
+  width: 684px;
+}
+.fmdsurname {
+  top: 586px;
+  left: 193px;
+  width: 628px;
+}
+.relativemob {
+  border: 0;
+  top: 903px;
+  left: 461px;
+  width: 409px;
+}
+.aadharcheckbox,
+.dob,
+.female,
+.relativemob {
+  position: absolute;
+  background-color: #fffbfb;
+  height: 26px;
+}
+.female {
+  cursor: pointer;
+  top: 1069px;
+  left: 402px;
+  width: 35px;
+}
+.aadharcheckbox,
+.dob {
+  top: 986px;
+}
+.dob {
+  border: 0;
+  left: 319px;
+  width: 370px;
+}
+.aadharcheckbox {
+  cursor: pointer;
+  left: 87px;
+  width: 33px;
+}
+.photo-icon {
+  position: absolute;
+  top: 346px;
+  left: 883px;
+  width: 164px;
+  height: 183px;
+  object-fit: cover;
+}
+.aadharcheckbox1,
+.father,
+.mother {
+  cursor: pointer;
+  position: absolute;
+  top: 673px;
+  left: 232px;
+  background-color: #fffbfb;
+  width: 31px;
+  height: 26px;
+}
+.aadharcheckbox1,
+.father {
+  left: 55px;
+  width: 34px;
+}
+.aadharcheckbox1 {
+  top: 1205px;
+  left: 87px;
+  background-color: #fff;
+  width: 31px;
+}
+.firstnamefollowedbymiddlename {
+  border: 0;
+  background-color: #fdfdfd;
+  position: absolute;
+  top: 505px;
+  left: 83px;
+  width: 822px;
+  height: 26px;
+}
+.first-name {
+  border: 0;
+  background-color: #fffbfb;
+  top: 380px;
+  left: 49px;
+  width: 844px;
+  height: 26px;
+}
+.edit,
+.first-name,
+.male {
+  position: absolute;
+}
+.male {
+  cursor: pointer;
+  top: 1069px;
+  left: 227px;
+  background-color: #fffbfb;
+  width: 36px;
+  height: 26px;
+}
+.edit {
+  top: 945px;
+  left: 1249px;
+}
+.form-6-english-2-1 {
+  position: absolute;
+  height: 25.33%;
+  width: 100%;
+  top: 71.2%;
+  right: 0.72%;
+  bottom: 3.48%;
+  left: -0.72%;
+  max-width: 100%;
+  overflow: visible;
+  max-height: 100%;
+  object-fit: scale-down;
+}
+.adharcb2nd {
+  cursor: pointer;
+  position: absolute;
+  top: 1625px;
+  left: 824px;
+  background-color: #fff;
+  width: 34px;
+  height: 32px;
+}
+.epic2,
+.noffamilymember2,
+.relwithapplicant2 {
+  border: 0;
+  background-color: #fff;
+  position: absolute;
+  top: 1997px;
+  left: 236px;
+  width: 336px;
+  height: 24px;
+}
+.epic2,
+.relwithapplicant2 {
+  top: 2001px;
+  left: 824px;
+  width: 245px;
+  height: 26px;
+}
+.epic2 {
+  background-color: #fffcfc;
+  top: 2035px;
+  left: 230px;
+  width: 355px;
+}
+.form-6-englishmodifird-1-parent {
+  position: relative;
+  width: 100%;
+  height: 2156px;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Inter;
+}
+
+.bt{
+  position: relative;
+  top: 100% ;
+  left: 51%;
+}
+.cbdec{
+  position: relative;
+  top: 100%;
+  left: 50%;
+}
