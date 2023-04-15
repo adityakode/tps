@@ -1,0 +1,54 @@
+.vid-icon {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 372px;
+  height: 525px;
+  object-fit: cover;
+}
+.dob,
+.fname,
+.name {
+  border: 0;
+  background-color: #fffbfb;
+  position: absolute;
+  top: 327px;
+  left: 157px;
+  width: 208px;
+  height: 27px;
+}
+.dob,
+.fname {
+  background-color: #fff;
+  top: 388px;
+  left: 162px;
+  width: 203px;
+  height: 26px;
+}
+.dob {
+  top: 488px;
+  left: 189px;
+  width: 176px;
+}
+.photo-icon {
+  position: absolute;
+  top: 108px;
+  left: 116px;
+  width: 131px;
+  height: 155px;
+  object-fit: cover;
+}
+.sex {
+  border: 0;
+  background-color: #fff;
+  position: absolute;
+  top: 438px;
+  left: 191px;
+  width: 174px;
+  height: 26px;
+}
+.vid-parent {
+  position: relative;
+  width: 100%;
+  height: 527px;
+}
